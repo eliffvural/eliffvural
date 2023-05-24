@@ -12,10 +12,10 @@
  ##  <img src="https://media.giphy.com/media/j6MwR2b2DEQz2TS5bV/giphy.gif" align="left" widht="32" height="32">      AI
 
 
-[<img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/linkedin.svg"  align="left"/> ](https://www.linkedin.com/in/emre-taş/)
+[<img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/linkedin.svg"  align="left"/> ](https://www.linkedin.com/in/elif-vural-61547a268/)
  
  
-[<img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/instagram.svg"  align="left"/> ](https://www.instagram.com/emre_tas_770/)
+[<img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/instagram.svg"  align="left"/> ](https://instagram.com/elifnvural?igshid=ZGUzMzM3NWJiOQ==)
 <br></br>
 
     Coffee coffee=new Coffe();
