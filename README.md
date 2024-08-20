@@ -2,7 +2,7 @@
 
 
 
-### Hi there, I'm Elif.:blush:
+### Hi there, I'm Elif.
 ## Software engineer | Blockchaine developer    
  this is my new account, i will be active here from now on.
  ##  <img src="https://media.giphy.com/media/doXBzUFJRxpaUbuaqz/giphy.gif" align="left" widht="32" height="32">   Blockchaine
