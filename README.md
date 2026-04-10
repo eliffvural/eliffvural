@@ -1,51 +1,82 @@
-# 👋 Merhaba, Ben Elif Vural!
+# Elif Vural 
 
-### 🚀 Software Engineer | Founder of Marithen Yazılım | Web3 & AI Specialist
+### ** 🚀Software Engineer | Web3 Developer | AI Enthusiast | Marithen Software**
 
-Bir yazılım mühendisi olarak Blockchain, Yapay Zeka ve Siber Güvenlik kesişiminde yenilikçi çözümler geliştiriyorum. Şu anda **Marithen Yazılım**'a liderlik ediyor ve **Superteam Turkey** ekosistemine aktif olarak katkıda bulunuyorum.
-
----
-
-### 🛠 Nelerle Uğraşıyorum?
-
-- **Web3 & Blockchain:** Solana ve Starknet üzerinde merkeziyetsiz çözümler (dApps).
-- **AI & Automation:** Otonom ajanlar ve Flavis AI gibi yapay zeka entegreli uygulamalar.
-- **Full-Stack Systems:** Modern frameworkler ile ölçeklenebilir web platformları mimarisi.
-- **Cybersecurity:** Akıllı kontrat güvenliği ve sistem sıkılaştırma.
+I am a dedicated **Software Engineer** specializing in building secure, scalable, and decentralized ecosystems. My work bridges the gap between complex **Blockchain** protocols and intuitive **AI-driven** user experiences. As the founder of **Marithen Yazılım**, I focus on delivering high-impact technological solutions.
 
 ---
 
-### 💻 Teknoloji Yığınım
+## ⚡ Quick Overview
 
-| Kategori | Araçlar |
-| :--- | :--- |
-| **Diller** | Rust, Solidity, Go, Python, JavaScript, C/C++, Dart, Java, C# |
-| **Frontend** | React, Next.js, Angular |
-| **Backend** | Node.js, Django |
-| **Blockchain** | Anchor, Solana Tooling, Starknet, Web3.js |
-
----
-
-### 🎓 Deneyim & Eğitim
-
-- 🏢 **Kurucu:** Marithen Yazılım
-- 🌟 **Topluluk:** Superteam Turkey Aktif Üyesi
-- 🎓 **Eğitim:** Yazılım Mühendisliği - Manisa Celal Bayar Üniversitesi
-- 💼 **Geçmiş:** Clysterum, Hybrid Software ve Ulupınar Software (Stajyer Yazılım Geliştirici)
+- 🔭 **Currently Leading:** [Marithen Yazılım](https://github.com/eliffvural), driving innovation in software development.
+- 🦅 **Ecosystem Contributor:** Active builder within the **Superteam Turkey** community, focusing on Solana growth.
+- 🛠 **Specialization:** High-performance smart contracts (**Solana/Starknet**) and Autonomous AI Agents.
+- 🎓 **Academic Background:** Software Engineering at **Manisa Celal Bayar University**.
+- 🔐 **Core Value:** Writing clean, maintainable, and security-first code.
 
 ---
 
-### 📫 Benimle İletişime Geç
+## 🛠 My Technical Arsenal
 
-<p align="left">
-<a href="https://linkedin.com/in/elif-vural-linkin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elifvural" height="30" width="40" /></a>
-<a href="https://twitter.com/kullaniciadin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="elifvural" height="30" width="40" /></a>
-<a href="mailto:your-email@example.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="elifvural" height="30" width="40" /></a>
+### 🌐 Web3 & Blockchain
+`Solidity` `Rust` `Anchor` `Starknet` `Web3.js` `Ethers.js` `Smart Contract Security`
+
+### 🤖 Artificial Intelligence & Automation
+`Python` `Autonomous Agents` `LangChain` `Flavis AI Integration` `Data Analysis`
+
+### 💻 Full-Stack Development
+- **Frontend:** `React` `Next.js` `Angular` `Tailwind CSS` `TypeScript`
+- **Backend:** `Node.js` `Express` `Django` `ASP.NET Core` `PostgreSQL` `MongoDB`
+- **Mobile:** `Flutter` `Dart`
+
+### ⚙️ Languages & Tools
+`C/C++` `Go` `Java` `C#` `Docker` `Git` `Linux` `AWS`
+
+---
+
+## 🚀 Key Projects & Focus Areas
+
+### 🔹 Web3 Ecosystems
+Architecting decentralized applications (dApps) on **Solana** and **Starknet**, focusing on DeFi protocols and NFT infrastructure.
+
+### 🔹 AI-Integrated Applications
+Developing **Flavis AI**, an initiative to create autonomous agents that simplify complex workflows through natural language processing.
+
+### 🔹 Scalable Architecture
+Building robust e-commerce and management systems using **ASP.NET MVC** and **Microservices architecture**.
+
+---
+
+## 💼 Experience Chronology
+
+| Role | Organization | Focus |
+| :--- | :--- | :--- |
+| **Founder** | Marithen Software | Tech Leadership & Strategy |
+| **Active Member** | Superteam Turkey | Solana Ecosystem Building |
+| **Software Intern** | Clysterum | Blockchain Research |
+
+---
+
+## 📊 GitHub Metrics
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=eliffvural&show_icons=true&theme=tokyonight&count_private=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliffvural&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-### 📊 GitHub İstatistiklerim
+## 🤝 Let's Connect & Collaborate
 
-![Elif's GitHub stats](https://github-readme-stats.vercel.app/api?username=eliffvural&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eliffvural&layout=compact&theme=dark)
+I'm always open to discussing **Web3 opportunities**, **AI ventures**, or **Open Source collaborations**.
+
+<p align="left">
+  <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/your-handle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+<p align="center">
+"Code is like humor. When you have to explain it, it’s bad." – <i>Cory House</i>
+</p>
