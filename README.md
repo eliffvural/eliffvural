@@ -8,7 +8,7 @@ I am a dedicated **Software Engineer** specializing in building secure, scalable
 
 ## ⚡ Quick Overview
 
-- 🔭 **Currently Leading:** [Marithen Yazılım](https://github.com/eliffvural), driving innovation in software development.
+- 🔭 **Currently Leading:** [Marithen Software](https://marithen.com), driving innovation in software development.
 - 🦅 **Ecosystem Contributor:** Active builder within the **Superteam Turkey** community, focusing on Solana growth.
 - 🛠 **Specialization:** High-performance smart contracts (**Solana/Starknet**) and Autonomous AI Agents.
 - 🎓 **Academic Background:** Software Engineering at **Manisa Celal Bayar University**.
